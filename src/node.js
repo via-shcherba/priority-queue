@@ -1,6 +1,6 @@
 class Node {
 	constructor(data, priority) {
-
+		
 	}
 
 	appendChild(node) {
@@ -12,7 +12,7 @@ class Node {
 	}
 
 	remove() {
-
+		
 	}
 
 	swapWithParent() {
